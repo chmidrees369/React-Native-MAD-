@@ -119,9 +119,8 @@ Toggle between light and dark modes from profile screen
 
 4. Results & Discussion
 4.1 Screenshots
-(Screenshots should be inserted here for each screen listed below.)
-
 Home Screen: Event list, search, and category filters
+(https://github.com/user-attachments/assets/de4b6d43-5350-4e68-bbb4-fb9cf1fd6b10)
 
 Event Details: Title, description, QR and feedback actions
 
