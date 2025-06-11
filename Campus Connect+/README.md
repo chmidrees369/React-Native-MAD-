@@ -120,7 +120,8 @@ Toggle between light and dark modes from profile screen
 4. Results & Discussion
 4.1 Screenshots
 Home Screen: Event list, search, and category filters
-(https://github.com/user-attachments/assets/de4b6d43-5350-4e68-bbb4-fb9cf1fd6b10)
+![CampusConnect+ Event Screen](https://github.com/user-attachments/assets/1d931300-6e6c-4c3e-9c75-fc696945d930)
+
 
 Event Details: Title, description, QR and feedback actions
 
