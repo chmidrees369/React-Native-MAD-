@@ -51,7 +51,8 @@ Home → Event Details
 Event Details → Check-In / Feedback / Comments
 
 Home → Profile / Feed
-<img src="https://github.com/user-attachments/assets/1d931300-6e6c-4c3e-9c75-fc696945d930" alt="CampusConnect+ Event Screen" width="300" />
+<!-- App Navigation Flow Diagram -->
+<img src="https://github.com/user-attachments/assets/2a1af9e1-e857-440d-843d-7421997845b1" alt="App Navigation Flow Diagram" width="500" />
 
 
 📶 Data Flow
