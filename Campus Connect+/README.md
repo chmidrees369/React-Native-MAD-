@@ -1,30 +1,30 @@
-*📱 CampusConnect+ Complex Computing Problem (CCP)*
-1. Introduction
+**📱 CampusConnect+ Complex Computing Problem (CCP)**
+**1. Introduction**
 🎯 Objective & Goals
 CampusConnect+ is a cross-platform mobile application developed using React Native and Expo CLI. Its primary goal is to enhance student engagement in campus activities by providing:
 
-Smart Event Discovery: Browse and search upcoming events with detailed information.
+**Smart Event Discovery:** Browse and search upcoming events with detailed information.
 
-Seamless Registration & Check-In: Register for events and check in via QR codes.
+**Seamless Registration & Check-In:** Register for events and check in via QR codes.
 
-Personalized Recommendations: AI-based suggestions based on user preferences.
+**Personalized Recommendations:** AI-based suggestions based on user preferences.
 
-Real-Time Feedback & Social Interaction: Rate events, leave comments, and view an activity feed.
+**Real-Time Feedback & Social Interaction:** Rate events, leave comments, and view an activity feed.
 
-Modern UI/UX & Accessibility: Dark/light theme support, responsive design, and accessibility features.
+**Modern UI/UX & Accessibility:** Dark/light theme support, responsive design, and accessibility features.
 
-2. Designed Model
-2.1 UI Sketches & Mockups
-🏠 Home Screen
-Header: App title, search bar, collapsible on scroll.
+**2. Designed Model**
+**2.1 UI Sketches & Mockups**
+**🏠 Home Screen**
+**Header:** App title, search bar, collapsible on scroll.
 
-Category Chips: Horizontal chips (e.g., “All”, “Tech”, “Social”).
+**Category Chips:** Horizontal chips (e.g., “All”, “Tech”, “Social”).
 
-AI Recommendations: Carousel of “Recommended For You” event cards.
+**AI Recommendations:** Carousel of “Recommended For You” event cards.
 
-Event List: Animated list of event cards with image, title, date, venue.
+**Event List:** Animated list of event cards with image, title, date, venue.
 
-📄 Event Details
+**📄 Event Details**
 Full-screen banner image
 
 Event metadata (date, venue, category)
@@ -35,7 +35,7 @@ Actions: “Check-In / View Pass”, “Give Feedback”
 
 Comments section with avatars and timestamps
 
-👤 Profile Screen
+**👤 Profile Screen**
 User avatar, name, email
 
 Preference toggles (Tech, Sports, etc.)
@@ -51,6 +51,8 @@ Home → Event Details
 Event Details → Check-In / Feedback / Comments
 
 Home → Profile / Feed
+<img src="https://github.com/user-attachments/assets/1d931300-6e6c-4c3e-9c75-fc696945d930" alt="CampusConnect+ Event Screen" width="300" />
+
 
 📶 Data Flow
 Mock API → fetch events → AsyncStorage cache
