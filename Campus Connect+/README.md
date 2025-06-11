@@ -123,9 +123,11 @@ Home Screen: Event list, search, and category filters
 <img src="https://github.com/user-attachments/assets/1d931300-6e6c-4c3e-9c75-fc696945d930" alt="CampusConnect+ Event Screen" width="300" />
 
 Event Details: Title, description, QR and feedback actions
+<img src="https://github.com/user-attachments/assets/ed635902-439c-423b-b0b5-7f992616e1d3" alt="CampusConnect Screenshot" width="300"/>
 
 
 Check-In Screen: Displays a unique QR pass
+
 
 Feedback Screen: User ratings and comment form
 
