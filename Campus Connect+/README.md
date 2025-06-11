@@ -123,17 +123,22 @@ Home Screen: Event list, search, and category filters
 <img src="https://github.com/user-attachments/assets/1d931300-6e6c-4c3e-9c75-fc696945d930" alt="CampusConnect+ Event Screen" width="300" />
 
 Event Details: Title, description, QR and feedback actions
-<img src="https://github.com/user-attachments/assets/ed635902-439c-423b-b0b5-7f992616e1d3" alt="CampusConnect Screenshot" width="300"/>
-
+<img src="https://github.com/user-attachments/assets/a2da02eb-5390-42fc-a8f8-0b14c352b17e" alt="CampusConnect Screenshot" width="300"/>
 
 Check-In Screen: Displays a unique QR pass
-
+<img src="https://github.com/user-attachments/assets/ed635902-439c-423b-b0b5-7f992616e1d3" alt="CampusConnect Screenshot" width="300"/>
 
 Feedback Screen: User ratings and comment form
+<img src="https://github.com/user-attachments/assets/efec800e-96e2-4112-bc71-3693563946c1" alt="CampusConnect Screenshot" width="300"/>
 
 Feed Screen: Displays animated feedback entries
+<img src="https://github.com/user-attachments/assets/63030c89-ad27-469e-ba49-fb8b6e8aa7c9" alt="CampusConnect Screenshot" width="300"/>
 
 Profile Screen: Preferences and dark mode toggle
+<img src="https://github.com/user-attachments/assets/ce73dc1d-15e6-4667-b131-5ee079bbde25" alt="CampusConnect Screenshot 1" width="300"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/e5b09899-ef1e-4aa0-9bc2-4a5ab6243158" alt="CampusConnect Screenshot 2" width="300"/>
+
 
 4.2 Functionality Verification
 ✅ Mock Data Loading: Immediate load from local JSON
