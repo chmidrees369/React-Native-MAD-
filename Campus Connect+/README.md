@@ -1,5 +1,5 @@
-**📱 CampusConnect+ Complex Computing Problem (CCP)**
-**1. Introduction**
+**📱 CampusConnect+ Complex Computing Problem (CCP)**<br>
+**1. Introduction**<br>
 🎯 Objective & Goals
 CampusConnect+ is a cross-platform mobile application developed using React Native and Expo CLI. Its primary goal is to enhance student engagement in campus activities by providing:
 
